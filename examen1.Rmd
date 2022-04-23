@@ -1,0 +1,9 @@
+---
+title: "Untitled"
+output: html_document
+date: '2022-04-23'
+---
+
+```{r pressure, echo=FALSE, fig.cap="Book Image", out.width = '100%'}
+knitr::include_graphics("image1.jpg")
+```
